@@ -5,6 +5,10 @@ contacts = [
     {"name": "Alice", "phone": "0712345678"},
     {"name": "Bob", "phone": "0723456789"},
     {"name": "Charlie", "phone": "0734567890"}
+    {"name":"Odhiambo","phone":"0715859594"}
+    {"name":"Daniel odhiambo","phone":078080890"}
+     {"name":"priscah Baraza","phone":0734789090"}
+      {"name":"Elijah Rakoro","phone":0796985894"}
 ]
 
 # Set to track unique names
@@ -46,3 +50,4 @@ while True:
         break
     else:
         print("Invalid option. Please choose add, show, or exit.")
+
